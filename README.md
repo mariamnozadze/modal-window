@@ -1,5 +1,4 @@
 # modal-window
-Modal window which can be closed by Esc, X or clicking on overlay
 
 Modal window created by with pure Javascript.
 
